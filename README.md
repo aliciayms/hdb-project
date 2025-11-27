@@ -58,6 +58,8 @@ In Singapore's housing market, both buyers and sellers of resale HDB flats need 
 
 is an interactive Tableau dashboard designed to help users gain insights into past and current HDB resale price trends from 1999 to 2025\. It allows users to explore how key factors such as flat size, region and street name, remaining lease, and year of sale, affect the distribution and value of HDB resale flats. By analysing historical data visually, users can identify which estates are more profitable, how lease duration impacts value, and how prices vary across locations and time. Whether you're a buyer aiming to find a high-value flat or a seller looking to price competitively, HDBPedia supports informed, data-driven decision-making with profitability as the key focus. Additionally, the dashboard is designed with a focus on clarity and efficiency, presenting concise visualizations that deliver essential insights without overwhelming the user. By prioritizing simplicity, it ensures users can quickly grasp key information and make informed decisions without unnecessary distractions.
 
+**Dashboard Link (.pptx)** [https://docs.google.com/presentation/d/1L-u5r8uKjHcdmte6\_H4NviL2GElo6MXX/edit?slide=id.p1\#slide=id.p1](https://docs.google.com/presentation/d/1L-u5r8uKjHcdmte6_H4NviL2GElo6MXX/edit?slide=id.p1#slide=id.p1) 
+
 ## **4.1 Dashboard Features**
 
 | Key Sheets | Features | Purpose |
